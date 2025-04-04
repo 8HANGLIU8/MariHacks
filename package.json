@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/8HANGLIU8/MariHacks#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0"
   }
 }
