@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/8HANGLIU8/MariHacks/issues"
   },
-  "homepage": "https://github.com/8HANGLIU8/MariHacks#readme"
+  "homepage": "https://github.com/8HANGLIU8/MariHacks#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
