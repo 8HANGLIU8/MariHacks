@@ -1,0 +1,21 @@
+{
+  "name": "marihacks",
+  "version": "1.0.0",
+  "description": "MariHacks 2024-2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8HANGLIU8/MariHacks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8HANGLIU8/MariHacks/issues"
+  },
+  "homepage": "https://github.com/8HANGLIU8/MariHacks#readme"
+}
