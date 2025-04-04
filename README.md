@@ -1,5 +1,5 @@
 # MariHacks
 
-MariHacks 2024-2
+MariHacks 2024-2025
 
 
